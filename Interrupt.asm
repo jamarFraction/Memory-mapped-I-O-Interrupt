@@ -1,6 +1,6 @@
 #Jamar Fraction
 #CPTS 260
-#HW12 (Final Project)
+#HW12
 
 .text
 
